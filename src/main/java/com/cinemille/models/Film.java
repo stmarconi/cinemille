@@ -1,7 +1,6 @@
 package com.cinemille.models;
 
 import java.time.LocalDate;
-import java.util.List;
 
 public class Film {
     private Integer id;

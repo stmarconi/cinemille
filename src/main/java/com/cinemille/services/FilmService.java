@@ -4,7 +4,6 @@ import com.cinemille.dto.FilmDto;
 import com.cinemille.models.Film;
 import com.cinemille.models.FilmScreening;
 import org.springframework.beans.factory.annotation.Autowired;
-import org.springframework.cglib.core.Local;
 import org.springframework.stereotype.Service;
 
 import java.io.IOException;

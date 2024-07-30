@@ -1,8 +1,6 @@
 package com.cinemille.dto;
 
-import java.time.LocalDate;
 import java.time.LocalDateTime;
-import java.util.List;
 import java.util.Map;
 
 public class FilmDto {
